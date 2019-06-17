@@ -1,3 +1,5 @@
-# Table of content
+# 目录
 
-* [First Chapter](chapter1.md)
+- [简介](README.md)
+- [准备工作](准备工作.md)
+
