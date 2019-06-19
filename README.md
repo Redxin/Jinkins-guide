@@ -14,6 +14,7 @@
 
 - 一台linux机器（虚拟机或服务器，本例使用Centos云服务器）
 - 熟悉一定的[linux基本操作](<https://www.w3cschool.cn/linux>)
+- Github账号
 
 
 
